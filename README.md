@@ -3,11 +3,11 @@ Code based on a Introduction to Node.js course by Linux Foundation, where we bui
 
 
 Run in terminal localted inside the main folder:
-  serve -p 5050 static
+  # serve -p 5050 static
 
 In another tertminal run:
-  cd mock-srv
-  npm run dev
+  # cd mock-srv
+  # npm run dev
   
 In adition, you can use the my-cli command interface to interact with the API inside mock-srv running the next command in another terminal:
-  my-cli
+  # my-cli
